@@ -4,15 +4,6 @@
 
 I'm interested in building practical AI systems, especially **LLMs, multilingual AI, RAG, and machine learning applications**.
 
-Currently exploring:
-
-* Large Language Models & Fine-tuning
-* LoRA / QLoRA
-* RAG & AI Agents
-* Multilingual AI
-* Machine Learning & Deep Learning
-* Efficient GPU inference and deployment
-
 ## Featured Projects
 
 ### Mythos
@@ -32,6 +23,14 @@ An AI-powered academic assistant using **LoRA/QLoRA and RAG** for learning, expl
 Antibiotics Resistance Insight System for exploring antimicrobial-resistance information using AI.
 
 **Focus:** AI • Research • Healthcare
+Area of interest:
+
+* Large Language Models & Fine-tuning
+* LoRA / QLoRA
+* RAG & AI Agents
+* Multilingual AI
+* Machine Learning & Deep Learning
+* Efficient GPU inference and deployment
 
 
 ## Technologies
