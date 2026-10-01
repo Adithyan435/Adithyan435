@@ -2,13 +2,13 @@
 
 ### CSE (AI) Student • AI/ML Builder • Open Source
 
-I'm interested in building practical AI systems, especially **LLMs, multilingual AI, RAG, and machine learning applications**.
+I'm interested in building practical AI systems, with a focus on **LLMs, multilingual AI, RAG, and machine learning applications**.
 
 ## Featured Projects
 
 ### Mythos
 
-A multilingual AI translation system focused on practical translation workflows and efficient inference.
+A multilingual AI translation system focused on practical translation workflows, multilingual support, and efficient GPU inference.
 
 **Focus:** LLMs • Multilingual AI • MoE • GPU Inference
 
@@ -20,22 +20,23 @@ An AI-powered academic assistant using **LoRA/QLoRA and RAG** for learning, expl
 
 ### ARIS
 
-Antibiotics Resistance Insight System for exploring antimicrobial-resistance information using AI.
+**Antibiotics Resistance Insight System** for exploring antimicrobial-resistance information using AI.
 
 **Focus:** AI • Research • Healthcare
-Area of interest:
+
+
+## Areas of Interest
 
 * Large Language Models & Fine-tuning
 * LoRA / QLoRA
 * RAG & AI Agents
 * Multilingual AI
 * Machine Learning & Deep Learning
-* Efficient GPU inference and deployment
-
+* Efficient GPU Inference & Deployment
 
 ## Technologies
 
-**Languages:** Python • C 
+**Languages:** Python • C
 
 **AI/ML:** PyTorch • Transformers • Hugging Face • scikit-learn
 
@@ -55,4 +56,5 @@ Area of interest:
 
 I'm interested in collaborating on interesting **AI/ML and open-source projects**.
 
-[LinkedIn](https://linkedin.com/in/adithyanbm) • [Hugging Face](https://huggingface.co/AdithyanAI)
+**LinkedIn:** linkedin.com/in/adithyanbm
+**Hugging Face:** huggingface.co/AdithyanAI
